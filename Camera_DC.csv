@@ -1,57 +1,57 @@
-Camera Manufacturer;username;Password
-3xLogic;admin;12345
-ACTi;Admin;123456
-ACTi;admin;123456
-Arecont;admin;EMPTY
-Avigilon;admin;admin
-Axis;root;pass
-Axis;root;EMPTY
-Basler;admin;admin
-Bosch;service;service
-Bosch;Dinion;EMPTY
-Brickcom;admin;admin
-Canon;root;Model # of camera
-CBC Ganz;admin;admin
-Cisco;no default;EMPTY
-CNB;root;admin
-Costar;root;root
-Dahua;admin;admin
-Dahua;888888;888888
-Dahua;666666;666666
-DVtel;Admin;1234
-GeoVision;admin;admin
-Grandstream;admin;admin
-GVI;Admin;1234
-HIKVision;admin;12345
-Honeywell;administrator;1234
-IOImage;admin;admin
-IPX-DDK;root;admin
-IPX-DDK;root;Admin
-IQInvision;root;system
-JVC;admin;Model # of Camera
-Merit Lilin Camera;admin;pass
-Merit Lilin Recorder;admin;1111
-Messoa;admin;Model # of Camera
-Mobotix;admin;meinsm
-Panasonic;admin;12345
-Panasonic;admin1;password
-Pelco;admin;admin
-PiXORD;admin;admin
-PiXORD;root;pass
-QVIS;Admin;1234
-Samsung;root;4321
-Samsung;root;admin
-Samsung;admin;4321
-Samsung;admin;1111111
-Sanyo;admin;admin
-Sentry 360;Admin;1234
-Sony;admin;admin
-Speco;root;root
-Speco;admin;admin
-StarDot;admin;admin
-Starvedia;admin;EMPTY
-Toshiba;root;ikwb
-Ubiquiti;ubnt;ubnt
-Verint;admin;admin
-VideoIQ;supervisor;supervisor
-Vivotek;root;EMPTY
+Camera Manufacturer	username	Password	Default IP
+3xLogic	admin	12345	192.0.0.64
+ACTi	Admin	123456	192.168.0.100
+ACTi	admin	123456	192.168.0.100
+Arecont	admin	EMPTY	DHCP
+Avigilon	admin	admin	DHCP
+Axis	root	pass	192.168.0.90
+Axis	root	EMPTY	192.168.0.90
+Basler	admin	admin	192.168.100.x
+Bosch	service	service	192.168.0.1
+Bosch	Dinion	EMPTY	192.168.0.1
+Brickcom	admin	admin	192.168.1.1
+Canon	root	Model # of camera	192.168.100.1
+CBC Ganz	admin	admin	192.168.100.x
+Cisco	no default	EMPTY	192.168.0.100
+CNB	root	admin	192.168.123.100
+Costar	root	root	DHCP
+Dahua	admin	admin	192.168.1.108
+Dahua	888888	888888	192.168.1.108
+Dahua	666666	666666	192.168.1.108
+DVtel	Admin	1234	192.168.0.250
+GeoVision	admin	admin	192.168.0.10
+Grandstream	admin	admin	192.168.1.168
+GVI	Admin	1234	192.168.0.250
+HIKVision	admin	12345	192.0.0.64
+Honeywell	administrator	1234	DHCP
+IOImage	admin	admin	192.168.123.10
+IPX-DDK	root	admin	192.168.1.168
+IPX-DDK	root	Admin	192.168.1.168
+IQInvision	root	system	DHCP
+JVC	admin	Model # of Camera	DHCP
+Merit Lilin Camera	admin	pass	DHCP
+Merit Lilin Recorder	admin	1111	DHCP
+Messoa	admin	Model # of Camera	192.168.1.30
+Mobotix	admin	meinsm	DHCP
+Panasonic	admin	12345	192.168.0.253
+Panasonic	admin1	password	192.168.0.253
+Pelco	admin	admin	DHCP
+PiXORD	admin	admin	192.168.0.200
+PiXORD	root	pass	192.168.0.200
+QVIS	Admin	1234	192.168.0.250
+Samsung	root	4321	192.168.1.200
+Samsung	root	admin	192.168.1.200
+Samsung	admin	4321	192.168.1.200
+Samsung	admin	1111111	192.168.1.200
+Sanyo	admin	admin	192.168.0.2
+Sentry 360	Admin	1234	192.168.0.250
+Sony	admin	admin	192.168.0.100
+Speco	root	root	192.168.1.7
+Speco	admin	admin	192.168.1.7
+StarDot	admin	admin	DHCP
+Starvedia	admin	EMPTY	DHCP
+Toshiba	root	ikwb	192.168.0.30
+Ubiquiti	ubnt	ubnt	192.168.1.20
+Verint	admin	admin	DHCP
+VideoIQ	supervisor	supervisor	DHCP
+Vivotek	root	EMPTY	DHCP
